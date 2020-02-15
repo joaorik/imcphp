@@ -1,7 +1,4 @@
 <?php
-//require 'class/IMC.php';
-//$imc = new IMC();
-//$imc->pegaDados($_POST)
 
 require 'functions.php';
 
